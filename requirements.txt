@@ -1,0 +1,10 @@
+polars
+numpy
+matplotlib
+ipykernel
+scikit-learn
+meteostat
+pyarrow
+xgboost
+mlxtend
+optuna
